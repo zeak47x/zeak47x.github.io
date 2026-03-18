@@ -13,7 +13,7 @@ I am ZeakPeak. I do fun projects and write funny blog posts. (At least I think s
 - AI Market analysis tool (ETA: 4/11/2026)
 - T-POT Research Project (ETA: 9/1/2026)
 ## Certifications 
-- OCI Multicloud Profesional 
+- OCI Multicloud Professional 
 - ISC2 Certified in Cybersecurity (CC)
 - OCI Foundations Associate
 
