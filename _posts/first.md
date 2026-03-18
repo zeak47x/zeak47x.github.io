@@ -7,7 +7,7 @@ tags: [opinion]
 
 # Welcome to my blog
 
-I am pleased to announced I have finally created a web blog. I will admit my effort in this blog was very minimal as I copied a well known template from github but the blog is here.
+I am pleased to announce I have finally created a web blog. I will admit my effort in this blog was very minimal.
 
 This blog is going to be the exact same as my medium blog in terms of content. 
 
